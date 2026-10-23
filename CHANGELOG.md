@@ -6,6 +6,12 @@ to [SemVer](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [0.1.9](https://github.com/OxideAV/oxideav-mpeg4video/compare/v0.1.8...v0.1.9) - 2026-10-23
+
+### Other
+
+- edition 2024, MSRV 1.95
+
 ### Changed
 
 - edition 2024, MSRV 1.95
